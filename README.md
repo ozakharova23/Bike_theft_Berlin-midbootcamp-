@@ -1,16 +1,16 @@
- #**Project name**
+# Project name
 
-##**Berlin Bike Theft Analysis**
+## Berlin Bike Theft Analysis
 
-###**Table of Contents**
-####General Info
-####Dataset
-####Technology stack
-
-
+### Table of Contents
+#### General Info
+#### Dataset
+#### Technology stack
 
 
-###Dataset
+
+
+### Dataset
 The dataset is available in a csv file link.
 
 The data set contains information on bike thefts in Berlin from 01/01/2021 to 01/06/2023.
@@ -79,7 +79,7 @@ Street name – Berlin street name
 
 https://public.tableau.com/app/profile/olga.zakharova/viz/MidbootcampProject_16862708519450/Mid-bootcamp
 
-###Technology stack
+### Technology stack
 Computing platform
 Jupyter Notebook
 Packages for data pre-processing
