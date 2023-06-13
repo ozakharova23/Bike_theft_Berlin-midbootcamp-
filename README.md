@@ -80,6 +80,7 @@ Street name – Berlin street name
 https://public.tableau.com/app/profile/olga.zakharova/viz/MidbootcampProject_16862708519450/Mid-bootcamp
 
 ### Technology stack
+
 Computing platform
 Jupyter Notebook
 Packages for data pre-processing
